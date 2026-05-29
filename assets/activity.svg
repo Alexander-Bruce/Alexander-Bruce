@@ -1,23 +1,23 @@
 <svg width="390" height="170" viewBox="0 0 390 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Contribution Activity</title>
-  <desc id="desc">53 commits, 6 repository contributions, 1 pull request, 0 reviews, 0 issues.</desc>
+  <desc id="desc">Contribution activity by type.</desc>
   <rect x="0.5" y="0.5" width="389" height="169" rx="10" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="34" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Contribution Activity</text>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="12">
-    <text x="24" y="68" fill="#24292f">Commits</text>
-    <rect x="118" y="58" width="220" height="10" rx="5" fill="#eaeef2"/>
-    <rect x="118" y="58" width="220" height="10" rx="5" fill="#0969da"/>
-    <text x="354" y="68" text-anchor="end" fill="#57606a">53</text>
-    <text x="24" y="94" fill="#24292f">Repositories</text>
-    <rect x="118" y="84" width="220" height="10" rx="5" fill="#eaeef2"/>
-    <rect x="118" y="84" width="25" height="10" rx="5" fill="#2da44e"/>
-    <text x="354" y="94" text-anchor="end" fill="#57606a">6</text>
-    <text x="24" y="120" fill="#24292f">Pull requests</text>
-    <rect x="118" y="110" width="220" height="10" rx="5" fill="#eaeef2"/>
-    <rect x="118" y="110" width="8" height="10" rx="5" fill="#8250df"/>
-    <text x="354" y="120" text-anchor="end" fill="#57606a">1</text>
-    <text x="24" y="146" fill="#24292f">Reviews / Issues</text>
-    <rect x="118" y="136" width="220" height="10" rx="5" fill="#eaeef2"/>
-    <text x="354" y="146" text-anchor="end" fill="#57606a">0 / 0</text>
+    <text x="24" y="72" fill="#24292f">Commits</text>
+    <rect x="118" y="62" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="62" width="220" height="10" rx="5" fill="#0969da"/>
+    <text x="354" y="72" text-anchor="end" fill="#57606a">54</text>
+    <text x="24" y="93" fill="#24292f">Repositories</text>
+    <rect x="118" y="83" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="83" width="24" height="10" rx="5" fill="#2da44e"/>
+    <text x="354" y="93" text-anchor="end" fill="#57606a">6</text>
+    <text x="24" y="114" fill="#24292f">Pull requests</text>
+    <rect x="118" y="104" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="104" width="6" height="10" rx="5" fill="#8250df"/>
+    <text x="354" y="114" text-anchor="end" fill="#57606a">1</text>
+    <text x="24" y="135" fill="#24292f">Reviews</text>
+    <rect x="118" y="125" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="125" width="6" height="10" rx="5" fill="#bf8700"/>
+    <text x="354" y="135" text-anchor="end" fill="#57606a">0</text>
+    <text x="24" y="156" fill="#24292f">Issues</text>
+    <rect x="118" y="146" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="146" width="6" height="10" rx="5" fill="#cf222e"/>
+    <text x="354" y="156" text-anchor="end" fill="#57606a">0</text>
   </g>
 </svg>
