@@ -1,8 +1,8 @@
 <svg width="390" height="170" viewBox="0 0 390 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Top Languages</title>
+  <title id="title">Language Distribution</title>
   <desc id="desc">Java 42.8 percent, C++ 18 percent, Vue 13.5 percent, HTML 6.6 percent, Python 4.7 percent, JavaScript 3.2 percent.</desc>
-  <rect x="0.5" y="0.5" width="389" height="169" rx="8" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="24" y="35" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Top Languages</text>
+  <rect x="0.5" y="0.5" width="389" height="169" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="35" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Language Distribution</text>
   <g transform="translate(24 55)">
     <rect x="0" y="0" width="342" height="10" rx="5" fill="#d8dee4"/>
     <rect x="0" y="0" width="146.4" height="10" rx="5" fill="#b07219"/>
