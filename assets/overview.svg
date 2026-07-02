@@ -20,6 +20,6 @@
     <text x="346" y="128" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">4 / 0</text>
     <line x1="170" y1="141" x2="346" y2="141" stroke="#d8dee4"/>
     <text x="170" y="160" fill="#57606a" font-size="13">Followers</text>
-    <text x="346" y="160" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">2</text>
+    <text x="346" y="160" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">1</text>
   </g>
 </svg>
