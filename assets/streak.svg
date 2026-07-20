@@ -4,12 +4,12 @@
   <rect x="0.5" y="0.5" width="389" height="169" rx="10" fill="#ffffff" stroke="#d0d7de"/>
   <text x="24" y="34" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Contribution Streak</text>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="24" y="92" fill="#24292f" font-size="34" font-weight="700">0</text>
+    <text x="24" y="92" fill="#24292f" font-size="34" font-weight="700">1</text>
     <text x="62" y="92" fill="#57606a" font-size="14">day current</text>
     <text x="24" y="120" fill="#57606a" font-size="13">Longest streak</text>
     <text x="346" y="120" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">6 days</text>
     <text x="24" y="146" fill="#57606a" font-size="13">Active days</text>
-    <text x="346" y="146" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">40</text>
+    <text x="346" y="146" text-anchor="end" fill="#24292f" font-size="16" font-weight="700">41</text>
   </g>
   <g transform="translate(220 50)">
     <rect x="0" y="0" width="18" height="18" rx="4" fill="#dbeafe"/>

@@ -6,10 +6,10 @@
   <g font-family="Segoe UI, Arial, sans-serif" font-size="12">
     <text x="24" y="72" fill="#24292f">Commits</text>
     <rect x="118" y="62" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="62" width="220" height="10" rx="5" fill="#0969da"/>
-    <text x="354" y="72" text-anchor="end" fill="#57606a">56</text>
+    <text x="354" y="72" text-anchor="end" fill="#57606a">57</text>
     <text x="24" y="93" fill="#24292f">Repositories</text>
-    <rect x="118" y="83" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="83" width="24" height="10" rx="5" fill="#2da44e"/>
-    <text x="354" y="93" text-anchor="end" fill="#57606a">6</text>
+    <rect x="118" y="83" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="83" width="27" height="10" rx="5" fill="#2da44e"/>
+    <text x="354" y="93" text-anchor="end" fill="#57606a">7</text>
     <text x="24" y="114" fill="#24292f">Pull requests</text>
     <rect x="118" y="104" width="220" height="10" rx="5" fill="#eaeef2"/><rect x="118" y="104" width="6" height="10" rx="5" fill="#8250df"/>
     <text x="354" y="114" text-anchor="end" fill="#57606a">1</text>
