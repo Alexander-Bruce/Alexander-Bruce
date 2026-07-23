@@ -5,15 +5,15 @@
   <text x="24" y="34" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Commit Types</text>
   <g transform="translate(24 55)">
     <rect x="0" y="0" width="342" height="11" rx="5.5" fill="#eaeef2"/>
-    <rect x="0.0" y="0" width="115.8" height="11" rx="5.5" fill="#cf222e"/>
-    <rect x="115.8" y="0" width="71.7" height="11" fill="#0969da"/>
-    <rect x="187.5" y="0" width="60.7" height="11" fill="#6e7781"/>
-    <rect x="248.2" y="0" width="49.6" height="11" fill="#2da44e"/>
-    <rect x="297.8" y="0" width="16.5" height="11" fill="#1f883d"/>
-    <rect x="314.3" y="0" width="16.5" height="11" fill="#bf8700"/>
-    <rect x="330.8" y="0" width="11.0" height="11" fill="#8250df"/>
+    <rect x="0.0" y="0" width="114.0" height="11" rx="5.5" fill="#cf222e"/>
+    <rect x="114.0" y="0" width="70.6" height="11" fill="#0969da"/>
+    <rect x="184.6" y="0" width="59.7" height="11" fill="#6e7781"/>
+    <rect x="244.3" y="0" width="54.3" height="11" fill="#2da44e"/>
+    <rect x="298.6" y="0" width="16.3" height="11" fill="#1f883d"/>
+    <rect x="314.9" y="0" width="16.3" height="11" fill="#bf8700"/>
+    <rect x="331.2" y="0" width="10.9" height="11" fill="#8250df"/>
   </g>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="13">
-    <circle cx="29" cy="89" r="5" fill="#cf222e"/><text x="43" y="94" fill="#24292f">fix</text><text x="111" y="94" fill="#57606a">21</text> <circle cx="149" cy="89" r="5" fill="#0969da"/><text x="163" y="94" fill="#24292f">docs</text><text x="231" y="94" fill="#57606a">13</text> <circle cx="279" cy="89" r="5" fill="#6e7781"/><text x="293" y="94" fill="#24292f">other</text><text x="361" y="94" fill="#57606a">11</text> <circle cx="29" cy="119" r="5" fill="#2da44e"/><text x="43" y="124" fill="#24292f">feat</text><text x="111" y="124" fill="#57606a">9</text> <circle cx="149" cy="119" r="5" fill="#1f883d"/><text x="163" y="124" fill="#24292f">ci</text><text x="231" y="124" fill="#57606a">3</text> <circle cx="279" cy="119" r="5" fill="#bf8700"/><text x="293" y="124" fill="#24292f">chore</text><text x="361" y="124" fill="#57606a">3</text> <circle cx="29" cy="149" r="5" fill="#8250df"/><text x="43" y="154" fill="#24292f">style</text><text x="111" y="154" fill="#57606a">2</text>
+    <circle cx="29" cy="89" r="5" fill="#cf222e"/><text x="43" y="94" fill="#24292f">fix</text><text x="111" y="94" fill="#57606a">21</text> <circle cx="149" cy="89" r="5" fill="#0969da"/><text x="163" y="94" fill="#24292f">docs</text><text x="231" y="94" fill="#57606a">13</text> <circle cx="279" cy="89" r="5" fill="#6e7781"/><text x="293" y="94" fill="#24292f">other</text><text x="361" y="94" fill="#57606a">11</text> <circle cx="29" cy="119" r="5" fill="#2da44e"/><text x="43" y="124" fill="#24292f">feat</text><text x="111" y="124" fill="#57606a">10</text> <circle cx="149" cy="119" r="5" fill="#1f883d"/><text x="163" y="124" fill="#24292f">ci</text><text x="231" y="124" fill="#57606a">3</text> <circle cx="279" cy="119" r="5" fill="#bf8700"/><text x="293" y="124" fill="#24292f">chore</text><text x="361" y="124" fill="#57606a">3</text> <circle cx="29" cy="149" r="5" fill="#8250df"/><text x="43" y="154" fill="#24292f">style</text><text x="111" y="154" fill="#57606a">2</text>
   </g>
 </svg>
